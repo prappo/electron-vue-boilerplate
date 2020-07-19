@@ -1,4 +1,6 @@
-# electron-vue-boilerplate
+# Electron Vue boilerplate
+
+![Screenshot](screenshot/electron-vue-boilerplate.png)
 
 ## Clone first
 
